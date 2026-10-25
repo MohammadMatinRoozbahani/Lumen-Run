@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59d561d8693e5d98acf901c50c41cab2, type: 3}
+  m_Name: LumenArt
+  m_EditorClassIdentifier: Assembly-CSharp::LumenArt
+  Frames:
+  - {fileID: 21300000, guid: f219344b37700f54a9f857a85318b6b8, type: 2}
+  - {fileID: 21300000, guid: d78a0242b68743941be07fbec7408459, type: 2}
+  - {fileID: 21300000, guid: db2b3f3797a6c74459367c82a39e484f, type: 2}
+  - {fileID: 21300000, guid: e4f0c8953c5a7ea4088ca201fc295545, type: 2}
+  - {fileID: 21300000, guid: b7e0e585308478d45b29206410511fda, type: 2}
+  - {fileID: 21300000, guid: 587e769f38202d347bc38df2c82eb947, type: 2}
+  - {fileID: 21300000, guid: d10987df5ea22634b8b48e77ec8b76a2, type: 2}
+  - {fileID: 21300000, guid: 8540e5dca6c8c71479cba2dbc5f307b1, type: 2}
+  - {fileID: 21300000, guid: 94e27ec4000ce394d83d4219edc6b05d, type: 2}
+  - {fileID: 21300000, guid: e2cabeda97f63ba45bb2b586bf3f9171, type: 2}
+  - {fileID: 21300000, guid: 3646d83e9c25ab74b9502105e372b792, type: 2}
+  - {fileID: 21300000, guid: 871b0bf97ed37224d9b144174bcafbf0, type: 2}
+  - {fileID: 21300000, guid: 4bb7e65fd615ef449860c1b8301f0e39, type: 2}
+  - {fileID: 21300000, guid: add6094af5d4e584d92a4977a5b14ee2, type: 2}
+  - {fileID: 21300000, guid: e31e6e45cf055484a922cbb2dcd7b924, type: 2}
+  - {fileID: 21300000, guid: 91a13f7f20d27d543a592e527d0fc27a, type: 2}
+  Environment: {fileID: 21300000, guid: b6d1b3b08c9ce724f8dc63821ccb6939, type: 2}
+  Foliage: {fileID: 21300000, guid: 1405fbc44fa7df54a8d30a70f934dfb3, type: 2}
+  Rounded: {fileID: 21300000, guid: db9078bf301e20d4c90c6b03c20e5160, type: 2}
+  Disc: {fileID: 21300000, guid: 2177aeade12e0b540a5858038de9e057, type: 2}
+  White: {fileID: 21300000, guid: bef50cb1af4176d45a6b13878504b460, type: 2}
+  BodyFont: {fileID: 12800000, guid: 4054a715e68a5433b9f2ebabdeff9c13, type: 3}
+  DisplayFont: {fileID: 12800000, guid: 473c4adb3fbc504692a3486f722f5e33, type: 3}
+  PanoramaMaterial: {fileID: 2100000, guid: 9ef6d8976e38dee4eaa2f155a7a533d0, type: 2}
+  Animator: {fileID: 9100000, guid: f67ad0f24b6785241859bd620d17eb85, type: 2}
